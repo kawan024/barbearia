@@ -16,6 +16,21 @@ body {
     padding: 20px;
 }
 
+h2{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20;
+    margin-right: 15%;
+}
+
+.imgbeneficios{
+    width: 50%;
+}
+
 p{
     text-align: center;
 }
@@ -25,7 +40,7 @@ em strong{
 }
 
 #banner{
-    width: 50%
+    width: 100%
 }
 
 h1{
