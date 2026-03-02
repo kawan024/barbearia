@@ -50,3 +50,11 @@ h1{
 #missão{
     font-size: 30px;
 }
+
+.titulo-principal{
+    padding-left: 20px;
+}
+
+.centralizado{
+    text-align: center;
+}
